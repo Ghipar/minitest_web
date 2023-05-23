@@ -187,11 +187,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              Nimas Rorun Nasiroh <br>
-              Sumbersari, Jember<br>
+              Ghifari Anhar P.B <br>
+              Tegal Besar, Jember<br>
              
               <strong>Phone:</strong> 08213456789<br>
-              <strong>Email:</strong> nimasr@gmail.com<br>
+              <strong>Email:</strong> msan@gmail.com<br>
             </p>
 
             <div class="social-links">
